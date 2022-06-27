@@ -30,5 +30,5 @@ int main(void)
     cout << to_string(b) << endl;
 
     // Return an integer
-	return 0;
+    return 0;
 }
